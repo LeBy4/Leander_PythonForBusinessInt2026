@@ -7,6 +7,5 @@ This repo contains exercises and assignments with my solutions from the course P
 
 ```
 ├── assignments/    # Assignments and my solutions
-├── exercises/      # Weekly exercises and my solutions
 └── project/        # The final project
 ```
