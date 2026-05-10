@@ -1,0 +1,11 @@
+Finding,Result,Value
+Industry with the most bankruptcies,Other service activities,18109.0
+Industry with the least bankruptcies,"Agriculture, forestry and fishing",1477.0
+Year with the most bankruptcies,2025,3906.0
+Year with the least bankruptcies,2020,2135.0
+Year with the largest increase in bankruptcies,2009,25.24
+Year with the largest decrease in bankruptcies,2020,-18.6
+Year with the highest Euribor,2008,4.81
+Year with the lowest Euribor,2021,-0.49
+Pearson correlation between Euribor and bankruptcies,Weak positive correlation,0.2148
+Pearson correlation p-value,Not statistically significant,0.3371
